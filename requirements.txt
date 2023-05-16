@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+pyautogui
+pyttsx3
+speechRecognition
+comtypes
